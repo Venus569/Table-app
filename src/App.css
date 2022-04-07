@@ -1,0 +1,33 @@
+*{
+
+  margin:auto;
+  padding: 0;
+  text-align: left;
+}  
+.our-table{
+  border: solid thin lightblue;
+  
+  width: 600px;
+}
+
+
+.projects{
+  width: 600px;
+  background-color: lightblue;
+}
+
+.inside{
+ background-color: rgb(192, 163, 219);
+ display:block ;
+  /*border: solid thin blac;*/
+}
+.inside td,th{
+  background-color: aquamarine;
+  padding-left: 30px;
+  padding-right: 30px;
+
+}
+
+.hidden{
+display: none;
+}
